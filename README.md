@@ -50,16 +50,16 @@ const islam = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MehenniIslam&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehenniIslam&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" alt="top langs"/>
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="profile details"/>
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/radical/3-stats.svg" alt="stats"/>
+  <img height="180" src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="langages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MehenniIslam&theme=radical&hide_border=true&background=0d1117&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehenniIslam&bg_color=0d1117&color=c084fc&line=c084fc&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
@@ -67,10 +67,10 @@ const islam = {
 ## 🚀 Projets en vedette
 
 <p align="center">
-  <a href="https://github.com/MehenniIslam/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MehenniIslam&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9" alt="portfolio"/></a>
-  <a href="https://github.com/MehenniIslam/BubbleSurvivor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MehenniIslam&repo=BubbleSurvivor&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9" alt="BubbleSurvivor"/></a>
-  <a href="https://github.com/MehenniIslam/Pegsolitaire"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MehenniIslam&repo=Pegsolitaire&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9" alt="Pegsolitaire"/></a>
-  <a href="https://github.com/MehenniIslam/SQL_BaseDonne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MehenniIslam&repo=SQL_BaseDonne&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9" alt="SQL_BaseDonne"/></a>
+  <a href="https://github.com/MehenniIslam/portfolio"><img src="https://img.shields.io/badge/portfolio-Site%20perso-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="portfolio"/></a>
+  <a href="https://github.com/MehenniIslam/BubbleSurvivor"><img src="https://img.shields.io/badge/BubbleSurvivor-Jeu-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="BubbleSurvivor"/></a>
+  <a href="https://github.com/MehenniIslam/Pegsolitaire"><img src="https://img.shields.io/badge/Pegsolitaire-Jeu-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Pegsolitaire"/></a>
+  <a href="https://github.com/MehenniIslam/SQL_BaseDonne"><img src="https://img.shields.io/badge/SQL__BaseDonne-SQL-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="SQL_BaseDonne"/></a>
 </p>
 
 ---
@@ -79,12 +79,6 @@ const islam = {
 
 <p align="center">
   <a href="https://github.com/MehenniIslam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MehenniIslam&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies"/>
 </p>
 
 <p align="center">
